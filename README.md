@@ -1,1 +1,0 @@
-# binance-futures-testnet-trading-bot
